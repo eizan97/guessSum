@@ -10,7 +10,7 @@ int main(){
     cout << "kali ini anda akan bermain tebak angka. Berapakah hasil penjumlahan dari 16 dalam bilangan genap!?" << endl;
     cout << "masukkan nomer pertama anda: " << endl;
     cin >> var1;
-    if (var1 == 14 || var1 == 12 || var1 == 8 || var1 == 6 || var1 == 4 || var1 == 2){
+    if (var1 == 14 || var1 == 10 || var1 == 12 || var1 == 8 || var1 == 6 || var1 == 4 || var1 == 2){
             cout << "yap, benar sekali" << endl;
             cout << "sekarang, coba masukkan angka kedua anda: " << endl;
             cin >> var2;
